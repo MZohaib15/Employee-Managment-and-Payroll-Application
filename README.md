@@ -21,3 +21,4 @@ The software reads the monthly attendance information of the employees from an e
 
 ## Salary Sheet Intreface 
 
+<img width="899" alt="Screenshot 2021-06-08 at 12 11 33 PM" src="https://user-images.githubusercontent.com/83071313/121145722-ae302480-c858-11eb-9c16-f665a7b29445.png">
