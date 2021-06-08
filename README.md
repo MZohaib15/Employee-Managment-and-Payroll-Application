@@ -26,3 +26,7 @@ The software reads the monthly attendance information of the employees from an e
 ## Employee Salary Data Interface
 
 <img width="899" alt="Screenshot 2021-06-08 at 12 11 46 PM" src="https://user-images.githubusercontent.com/83071313/121146051-fc452800-c858-11eb-8c1a-b2e5555e3f8e.png">
+
+## Employee Information Interface
+
+<img width="880" alt="Screenshot 2021-06-08 at 12 12 03 PM" src="https://user-images.githubusercontent.com/83071313/121146280-357d9800-c859-11eb-825b-42803dd2cab4.png">
